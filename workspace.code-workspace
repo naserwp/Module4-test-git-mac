@@ -1,16 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "../../../../Users/sysna/Desktop/NaserDev"
-		},
-		{
-			"path": "../../../../Users/sysna/Desktop/NaserDev/htmlform"
-		},
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "htmlform"
-	}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
